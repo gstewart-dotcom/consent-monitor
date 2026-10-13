@@ -1,0 +1,18 @@
+{
+  "sites": [
+    {
+      "id": "pants-store",
+      "name": "Pants Store",
+      "url": "https://pantsstore.com/",
+      "enabled": true,
+      "scenarios": ["decline", "gpc"],
+      "pages": ["/collections/womens-new-arrivals-1", "/products/k-squared-a4113", "/cart"],
+      "maxPages": 8,
+      "dwellMs": 7000,
+      "firstPartyHosts": ["pantsstore-telegraph.myshopify.com"],
+      "allowCookies": [],
+      "locationLabel": "GitHub Actions runner (US)",
+      "proxyEnv": null
+    }
+  ]
+}

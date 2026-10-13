@@ -1,0 +1,13 @@
+{
+  "name": "lot22-consent-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Weekly automated test that tracking stops after visitors decline cookies.",
+  "scripts": {
+    "audit": "node src/audit.js",
+    "test": "node test/run-fixture.js"
+  },
+  "dependencies": {
+    "playwright": "1.56.0"
+  }
+}
