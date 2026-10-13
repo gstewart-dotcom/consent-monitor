@@ -26,7 +26,7 @@ jobs:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
-        run: node src/audit.js
+        run:    run: node audit.js --config sites.json
       - name: Upload evidence
         if: always()
         uses: actions/upload-artifact@v4
