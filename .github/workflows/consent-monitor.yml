@@ -1,0 +1,47 @@
+name: Weekly consent check
+
+on:
+  schedule:
+    - cron: '17 13 * * 1'   # Mondays 8:17 AM Central (daylight time)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install
+      - run: npx playwright install --with-deps chromium
+      - name: Run audit
+        id: audit
+        continue-on-error: true
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+        run: node src/audit.js
+      - name: Upload evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: consent-reports-${{ github.run_number }}
+          path: reports/
+          retention-days: 90
+      - name: Commit report history
+        if: always()
+        run: |
+          git config user.name "consent-monitor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add reports/ ':!reports/**/network.har' || true
+          git commit -m "Consent check $(date -u +%F)" || echo "nothing to commit"
+          git push || echo "push failed"
+      - name: Fail if violations found
+        if: steps.audit.outcome == 'failure'
+        run: exit 1
