@@ -2,7 +2,7 @@
   "site": "pants-store",
   "url": "https://pantsstore.com/",
   "scenario": "gpc",
-  "startedAt": "2026-10-13T17:20:01.724Z",
+  "startedAt": "2026-10-19T17:46:58.149Z",
   "pages": [
     {
       "path": "/collections/womens-new-arrivals-1",
@@ -11,7 +11,7 @@
         {
           "name": "localization",
           "domain": "pantsstore.com",
-          "expires": "2027-10-13T17:20:17.761Z",
+          "expires": "2027-10-19T17:47:14.602Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -21,7 +21,7 @@
         {
           "name": "cart_currency",
           "domain": "pantsstore.com",
-          "expires": "2026-10-27T17:20:19.861Z",
+          "expires": "2026-11-02T17:47:16.855Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -31,7 +31,7 @@
         {
           "name": "_shopify_essential",
           "domain": "pantsstore.com",
-          "expires": "2027-10-13T17:20:02.010Z",
+          "expires": "2027-10-19T17:46:58.466Z",
           "httpOnly": true,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -41,7 +41,7 @@
         {
           "name": "_shop_app_essential",
           "domain": ".shop.app",
-          "expires": "2027-10-13T17:20:02.757Z",
+          "expires": "2027-10-19T17:46:59.036Z",
           "httpOnly": true,
           "thirdParty": true,
           "vendor": "Unknown",
@@ -51,7 +51,7 @@
         {
           "name": "cart",
           "domain": "pantsstore.com",
-          "expires": "2027-01-12T18:20:04.909Z",
+          "expires": "2027-01-18T18:47:00.822Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -61,7 +61,7 @@
         {
           "name": "AWSALBCORS",
           "domain": "app.ravecapture.com",
-          "expires": "2026-10-20T17:20:17.910Z",
+          "expires": "2026-10-26T17:47:14.711Z",
           "httpOnly": false,
           "thirdParty": true,
           "vendor": "Unknown",
@@ -71,7 +71,7 @@
         {
           "name": "_ga",
           "domain": ".pantsstore.com",
-          "expires": "2027-11-17T17:20:19.250Z",
+          "expires": "2027-11-23T17:47:16.263Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Google Analytics",
@@ -81,7 +81,7 @@
         {
           "name": "_gid",
           "domain": ".pantsstore.com",
-          "expires": "2026-10-14T17:20:19.000Z",
+          "expires": "2026-10-20T17:47:16.000Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Google Analytics",
@@ -137,7 +137,7 @@
         "analytics": "",
         "preferences": "",
         "sale_of_data": "no",
-        "region": "USAZ"
+        "region": "USVA"
       }
     },
     {
@@ -147,7 +147,7 @@
         {
           "name": "localization",
           "domain": "pantsstore.com",
-          "expires": "2027-10-13T17:20:29.470Z",
+          "expires": "2027-10-19T17:47:26.920Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -157,7 +157,7 @@
         {
           "name": "cart_currency",
           "domain": "pantsstore.com",
-          "expires": "2026-10-27T17:20:31.635Z",
+          "expires": "2026-11-02T17:47:29.180Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -167,7 +167,7 @@
         {
           "name": "_shopify_essential",
           "domain": "pantsstore.com",
-          "expires": "2027-10-13T17:20:02.010Z",
+          "expires": "2027-10-19T17:46:58.466Z",
           "httpOnly": true,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -177,7 +177,7 @@
         {
           "name": "_shop_app_essential",
           "domain": ".shop.app",
-          "expires": "2027-10-13T17:20:02.757Z",
+          "expires": "2027-10-19T17:46:59.036Z",
           "httpOnly": true,
           "thirdParty": true,
           "vendor": "Unknown",
@@ -187,7 +187,7 @@
         {
           "name": "cart",
           "domain": "pantsstore.com",
-          "expires": "2027-01-12T18:20:04.909Z",
+          "expires": "2027-01-18T18:47:00.822Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -197,7 +197,7 @@
         {
           "name": "_ga",
           "domain": ".pantsstore.com",
-          "expires": "2027-11-17T17:20:30.765Z",
+          "expires": "2027-11-23T17:47:28.427Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Google Analytics",
@@ -207,7 +207,7 @@
         {
           "name": "_gid",
           "domain": ".pantsstore.com",
-          "expires": "2026-10-14T17:20:30.000Z",
+          "expires": "2026-10-20T17:47:28.000Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Google Analytics",
@@ -217,7 +217,7 @@
         {
           "name": "AWSALBCORS",
           "domain": "app.ravecapture.com",
-          "expires": "2026-10-20T17:20:29.608Z",
+          "expires": "2026-10-26T17:47:26.013Z",
           "httpOnly": false,
           "thirdParty": true,
           "vendor": "Unknown",
@@ -277,7 +277,7 @@
         "analytics": "",
         "preferences": "",
         "sale_of_data": "no",
-        "region": "USAZ"
+        "region": "USVA"
       }
     },
     {
@@ -287,7 +287,7 @@
         {
           "name": "localization",
           "domain": "pantsstore.com",
-          "expires": "2027-10-13T17:20:41.366Z",
+          "expires": "2027-10-19T17:47:38.869Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -297,7 +297,7 @@
         {
           "name": "cart_currency",
           "domain": "pantsstore.com",
-          "expires": "2026-10-27T17:20:43.507Z",
+          "expires": "2026-11-02T17:47:41.154Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -307,7 +307,7 @@
         {
           "name": "_shopify_essential",
           "domain": "pantsstore.com",
-          "expires": "2027-10-13T17:20:02.010Z",
+          "expires": "2027-10-19T17:46:58.466Z",
           "httpOnly": true,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -317,7 +317,7 @@
         {
           "name": "_shop_app_essential",
           "domain": ".shop.app",
-          "expires": "2027-10-13T17:20:02.757Z",
+          "expires": "2027-10-19T17:46:59.036Z",
           "httpOnly": true,
           "thirdParty": true,
           "vendor": "Unknown",
@@ -327,7 +327,7 @@
         {
           "name": "cart",
           "domain": "pantsstore.com",
-          "expires": "2027-01-12T18:20:04.909Z",
+          "expires": "2027-01-18T18:47:00.822Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -337,7 +337,7 @@
         {
           "name": "_ga",
           "domain": ".pantsstore.com",
-          "expires": "2027-11-17T17:20:42.820Z",
+          "expires": "2027-11-23T17:47:40.344Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Google Analytics",
@@ -347,7 +347,7 @@
         {
           "name": "_gid",
           "domain": ".pantsstore.com",
-          "expires": "2026-10-14T17:20:42.000Z",
+          "expires": "2026-10-20T17:47:40.000Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Google Analytics",
@@ -357,7 +357,7 @@
         {
           "name": "AWSALBCORS",
           "domain": "app.ravecapture.com",
-          "expires": "2026-10-20T17:20:41.517Z",
+          "expires": "2026-10-26T17:47:38.954Z",
           "httpOnly": false,
           "thirdParty": true,
           "vendor": "Unknown",
@@ -367,7 +367,7 @@
         {
           "name": "language",
           "domain": "pantsstore.com",
-          "expires": "2026-10-14T17:20:42.000Z",
+          "expires": "2026-10-20T17:47:39.000Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -377,7 +377,7 @@
         {
           "name": "ledgerCurrency",
           "domain": "pantsstore.com",
-          "expires": "2026-10-14T17:20:42.000Z",
+          "expires": "2026-10-20T17:47:39.000Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -387,7 +387,7 @@
         {
           "name": "session-token",
           "domain": ".amazon.com",
-          "expires": "2027-10-13T17:20:42.209Z",
+          "expires": "2027-10-19T17:47:39.608Z",
           "httpOnly": false,
           "thirdParty": true,
           "vendor": "Unknown",
@@ -397,7 +397,7 @@
         {
           "name": "session-id",
           "domain": ".amazon.com",
-          "expires": "2027-10-13T17:20:42.210Z",
+          "expires": "2027-10-19T17:47:39.608Z",
           "httpOnly": false,
           "thirdParty": true,
           "vendor": "Unknown",
@@ -407,7 +407,7 @@
         {
           "name": "session-id-time",
           "domain": ".amazon.com",
-          "expires": "2027-10-13T17:20:42.210Z",
+          "expires": "2027-10-19T17:47:39.608Z",
           "httpOnly": false,
           "thirdParty": true,
           "vendor": "Unknown",
@@ -417,7 +417,7 @@
         {
           "name": "session-id-apay",
           "domain": ".amazon.com",
-          "expires": "2027-10-13T17:20:42.210Z",
+          "expires": "2027-10-19T17:47:39.609Z",
           "httpOnly": false,
           "thirdParty": true,
           "vendor": "Unknown",
@@ -427,7 +427,7 @@
         {
           "name": "apay-session-set",
           "domain": "pantsstore.com",
-          "expires": "2027-10-13T17:20:42.000Z",
+          "expires": "2027-10-19T17:47:39.000Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -488,7 +488,7 @@
         "analytics": "",
         "preferences": "",
         "sale_of_data": "no",
-        "region": "USAZ"
+        "region": "USVA"
       }
     },
     {
@@ -498,7 +498,7 @@
         {
           "name": "localization",
           "domain": "pantsstore.com",
-          "expires": "2027-10-13T17:20:53.100Z",
+          "expires": "2027-10-19T17:47:50.764Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -508,7 +508,7 @@
         {
           "name": "cart_currency",
           "domain": "pantsstore.com",
-          "expires": "2026-10-27T17:20:54.466Z",
+          "expires": "2026-11-02T17:47:52.214Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -518,7 +518,7 @@
         {
           "name": "_shopify_essential",
           "domain": "pantsstore.com",
-          "expires": "2027-10-13T17:20:02.010Z",
+          "expires": "2027-10-19T17:46:58.466Z",
           "httpOnly": true,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -528,7 +528,7 @@
         {
           "name": "_shop_app_essential",
           "domain": ".shop.app",
-          "expires": "2027-10-13T17:20:02.757Z",
+          "expires": "2027-10-19T17:46:59.036Z",
           "httpOnly": true,
           "thirdParty": true,
           "vendor": "Unknown",
@@ -538,7 +538,7 @@
         {
           "name": "cart",
           "domain": "pantsstore.com",
-          "expires": "2027-01-12T18:20:04.909Z",
+          "expires": "2027-01-18T18:47:00.822Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -548,7 +548,7 @@
         {
           "name": "_ga",
           "domain": ".pantsstore.com",
-          "expires": "2027-11-17T17:20:53.753Z",
+          "expires": "2027-11-23T17:47:51.428Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Google Analytics",
@@ -558,7 +558,7 @@
         {
           "name": "_gid",
           "domain": ".pantsstore.com",
-          "expires": "2026-10-14T17:20:53.000Z",
+          "expires": "2026-10-20T17:47:51.000Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Google Analytics",
@@ -568,7 +568,7 @@
         {
           "name": "language",
           "domain": "pantsstore.com",
-          "expires": "2026-10-14T17:20:42.000Z",
+          "expires": "2026-10-20T17:47:39.000Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -578,7 +578,7 @@
         {
           "name": "ledgerCurrency",
           "domain": "pantsstore.com",
-          "expires": "2026-10-14T17:20:42.000Z",
+          "expires": "2026-10-20T17:47:39.000Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -588,7 +588,7 @@
         {
           "name": "session-token",
           "domain": ".amazon.com",
-          "expires": "2027-10-13T17:20:42.209Z",
+          "expires": "2027-10-19T17:47:39.608Z",
           "httpOnly": false,
           "thirdParty": true,
           "vendor": "Unknown",
@@ -598,7 +598,7 @@
         {
           "name": "session-id",
           "domain": ".amazon.com",
-          "expires": "2027-10-13T17:20:42.210Z",
+          "expires": "2027-10-19T17:47:39.608Z",
           "httpOnly": false,
           "thirdParty": true,
           "vendor": "Unknown",
@@ -608,7 +608,7 @@
         {
           "name": "session-id-time",
           "domain": ".amazon.com",
-          "expires": "2027-10-13T17:20:42.210Z",
+          "expires": "2027-10-19T17:47:39.608Z",
           "httpOnly": false,
           "thirdParty": true,
           "vendor": "Unknown",
@@ -618,7 +618,7 @@
         {
           "name": "session-id-apay",
           "domain": ".amazon.com",
-          "expires": "2027-10-13T17:20:42.210Z",
+          "expires": "2027-10-19T17:47:39.609Z",
           "httpOnly": false,
           "thirdParty": true,
           "vendor": "Unknown",
@@ -628,7 +628,7 @@
         {
           "name": "apay-session-set",
           "domain": "pantsstore.com",
-          "expires": "2027-10-13T17:20:42.000Z",
+          "expires": "2027-10-19T17:47:39.000Z",
           "httpOnly": false,
           "thirdParty": false,
           "vendor": "Necessary / consent",
@@ -638,7 +638,7 @@
         {
           "name": "AWSALBCORS",
           "domain": "app.ravecapture.com",
-          "expires": "2026-10-20T17:20:53.246Z",
+          "expires": "2026-10-26T17:47:50.857Z",
           "httpOnly": false,
           "thirdParty": true,
           "vendor": "Unknown",
@@ -699,7 +699,7 @@
         "analytics": "",
         "preferences": "",
         "sale_of_data": "no",
-        "region": "USAZ"
+        "region": "USVA"
       }
     }
   ],
@@ -714,7 +714,7 @@
       {
         "name": "localization",
         "domain": "pantsstore.com",
-        "expires": "2027-10-13T17:20:01.010Z",
+        "expires": "2027-10-19T17:46:58.465Z",
         "httpOnly": false,
         "thirdParty": false,
         "vendor": "Necessary / consent",
@@ -724,7 +724,7 @@
       {
         "name": "cart_currency",
         "domain": "pantsstore.com",
-        "expires": "2026-10-27T17:20:05.581Z",
+        "expires": "2026-11-02T17:47:01.790Z",
         "httpOnly": false,
         "thirdParty": false,
         "vendor": "Necessary / consent",
@@ -734,7 +734,7 @@
       {
         "name": "_shopify_essential",
         "domain": "pantsstore.com",
-        "expires": "2027-10-13T17:20:02.010Z",
+        "expires": "2027-10-19T17:46:58.466Z",
         "httpOnly": true,
         "thirdParty": false,
         "vendor": "Necessary / consent",
@@ -744,7 +744,7 @@
       {
         "name": "AWSALBCORS",
         "domain": "app.ravecapture.com",
-        "expires": "2026-10-20T17:20:02.304Z",
+        "expires": "2026-10-26T17:46:58.612Z",
         "httpOnly": false,
         "thirdParty": true,
         "vendor": "Unknown",
@@ -754,7 +754,7 @@
       {
         "name": "_shop_app_essential",
         "domain": ".shop.app",
-        "expires": "2027-10-13T17:20:02.757Z",
+        "expires": "2027-10-19T17:46:59.036Z",
         "httpOnly": true,
         "thirdParty": true,
         "vendor": "Unknown",
@@ -764,7 +764,7 @@
       {
         "name": "cart",
         "domain": "pantsstore.com",
-        "expires": "2027-01-12T18:20:04.909Z",
+        "expires": "2027-01-18T18:47:00.822Z",
         "httpOnly": false,
         "thirdParty": false,
         "vendor": "Necessary / consent",
@@ -817,7 +817,7 @@
       "analytics": "",
       "preferences": "",
       "sale_of_data": "no",
-      "region": "USAZ"
+      "region": "USVA"
     }
   },
   "afterChoice": {
@@ -825,7 +825,7 @@
       {
         "name": "localization",
         "domain": "pantsstore.com",
-        "expires": "2027-10-13T17:20:01.010Z",
+        "expires": "2027-10-19T17:46:58.465Z",
         "httpOnly": false,
         "thirdParty": false,
         "vendor": "Necessary / consent",
@@ -835,7 +835,7 @@
       {
         "name": "cart_currency",
         "domain": "pantsstore.com",
-        "expires": "2026-10-27T17:20:05.581Z",
+        "expires": "2026-11-02T17:47:01.790Z",
         "httpOnly": false,
         "thirdParty": false,
         "vendor": "Necessary / consent",
@@ -845,7 +845,7 @@
       {
         "name": "_shopify_essential",
         "domain": "pantsstore.com",
-        "expires": "2027-10-13T17:20:02.010Z",
+        "expires": "2027-10-19T17:46:58.466Z",
         "httpOnly": true,
         "thirdParty": false,
         "vendor": "Necessary / consent",
@@ -855,7 +855,7 @@
       {
         "name": "AWSALBCORS",
         "domain": "app.ravecapture.com",
-        "expires": "2026-10-20T17:20:02.304Z",
+        "expires": "2026-10-26T17:46:58.612Z",
         "httpOnly": false,
         "thirdParty": true,
         "vendor": "Unknown",
@@ -865,7 +865,7 @@
       {
         "name": "_shop_app_essential",
         "domain": ".shop.app",
-        "expires": "2027-10-13T17:20:02.757Z",
+        "expires": "2027-10-19T17:46:59.036Z",
         "httpOnly": true,
         "thirdParty": true,
         "vendor": "Unknown",
@@ -875,7 +875,7 @@
       {
         "name": "cart",
         "domain": "pantsstore.com",
-        "expires": "2027-01-12T18:20:04.909Z",
+        "expires": "2027-01-18T18:47:00.822Z",
         "httpOnly": false,
         "thirdParty": false,
         "vendor": "Necessary / consent",
@@ -928,7 +928,7 @@
       "analytics": "",
       "preferences": "",
       "sale_of_data": "no",
-      "region": "USAZ"
+      "region": "USVA"
     }
   },
   "findings": [
@@ -941,7 +941,7 @@
       "vendor": "Unknown",
       "category": "unknown",
       "severity": "warning",
-      "detail": "app.ravecapture.com · expires 2026-10-20T17:20:02.304Z · third-party"
+      "detail": "app.ravecapture.com · expires 2026-10-26T17:46:58.612Z · third-party"
     },
     {
       "key": "cookie|Unknown|_shop_app_essential|pre-consent|warning",
@@ -952,7 +952,7 @@
       "vendor": "Unknown",
       "category": "unknown",
       "severity": "warning",
-      "detail": ".shop.app · expires 2027-10-13T17:20:02.757Z · third-party"
+      "detail": ".shop.app · expires 2027-10-19T17:46:59.036Z · third-party"
     },
     {
       "key": "cookie|Unknown|AWSALBCORS|post-decline|warning",
@@ -963,7 +963,7 @@
       "vendor": "Unknown",
       "category": "unknown",
       "severity": "warning",
-      "detail": "app.ravecapture.com · expires 2026-10-20T17:20:02.304Z · third-party"
+      "detail": "app.ravecapture.com · expires 2026-10-26T17:46:58.612Z · third-party"
     },
     {
       "key": "cookie|Unknown|_shop_app_essential|post-decline|warning",
@@ -974,7 +974,7 @@
       "vendor": "Unknown",
       "category": "unknown",
       "severity": "warning",
-      "detail": ".shop.app · expires 2027-10-13T17:20:02.757Z · third-party"
+      "detail": ".shop.app · expires 2027-10-19T17:46:59.036Z · third-party"
     },
     {
       "key": "cookie|Google Analytics|_ga|post-decline|violation",
@@ -985,7 +985,7 @@
       "vendor": "Google Analytics",
       "category": "analytics",
       "severity": "violation",
-      "detail": ".pantsstore.com · expires 2027-11-17T17:20:19.250Z · NEW after decline"
+      "detail": ".pantsstore.com · expires 2027-11-23T17:47:16.263Z · NEW after decline"
     },
     {
       "key": "cookie|Google Analytics|_gid|post-decline|violation",
@@ -996,7 +996,7 @@
       "vendor": "Google Analytics",
       "category": "analytics",
       "severity": "violation",
-      "detail": ".pantsstore.com · expires 2026-10-14T17:20:19.000Z · NEW after decline"
+      "detail": ".pantsstore.com · expires 2026-10-20T17:47:16.000Z · NEW after decline"
     },
     {
       "key": "cookie|Unknown|session-token|post-decline|warning",
@@ -1007,7 +1007,7 @@
       "vendor": "Unknown",
       "category": "unknown",
       "severity": "warning",
-      "detail": ".amazon.com · expires 2027-10-13T17:20:42.209Z · third-party · NEW after decline"
+      "detail": ".amazon.com · expires 2027-10-19T17:47:39.608Z · third-party · NEW after decline"
     },
     {
       "key": "cookie|Unknown|session-id|post-decline|warning",
@@ -1018,7 +1018,7 @@
       "vendor": "Unknown",
       "category": "unknown",
       "severity": "warning",
-      "detail": ".amazon.com · expires 2027-10-13T17:20:42.210Z · third-party · NEW after decline"
+      "detail": ".amazon.com · expires 2027-10-19T17:47:39.608Z · third-party · NEW after decline"
     },
     {
       "key": "cookie|Unknown|session-id-time|post-decline|warning",
@@ -1029,7 +1029,7 @@
       "vendor": "Unknown",
       "category": "unknown",
       "severity": "warning",
-      "detail": ".amazon.com · expires 2027-10-13T17:20:42.210Z · third-party · NEW after decline"
+      "detail": ".amazon.com · expires 2027-10-19T17:47:39.608Z · third-party · NEW after decline"
     },
     {
       "key": "cookie|Unknown|session-id-apay|post-decline|warning",
@@ -1040,7 +1040,7 @@
       "vendor": "Unknown",
       "category": "unknown",
       "severity": "warning",
-      "detail": ".amazon.com · expires 2027-10-13T17:20:42.210Z · third-party · NEW after decline"
+      "detail": ".amazon.com · expires 2027-10-19T17:47:39.609Z · third-party · NEW after decline"
     },
     {
       "key": "request|Klaviyo|https://static.klaviyo.com/onsite/js/TxUi6d/klaviyo.js|pre-consent|warning",
@@ -1067,28 +1067,16 @@
       "sample": "https://pantsstore.com/.well-known/shopify/monorail/unstable/produce_batch"
     },
     {
-      "key": "request|Shopify Analytics (monorail)|https://monorail-edge.shopifysvc.com/v1/produce|pre-consent|warning",
+      "key": "request|Google Tag|https://www.googletagmanager.com/gtag/js|pre-consent|warning",
       "type": "request",
       "phase": "pre-consent",
       "where": "/",
-      "item": "https://monorail-edge.shopifysvc.com/v1/produce",
-      "vendor": "Shopify Analytics (monorail)",
-      "category": "beacon",
+      "item": "https://www.googletagmanager.com/gtag/js",
+      "vendor": "Google Tag",
+      "category": "script",
       "severity": "warning",
-      "detail": "Shopify first-party analytics event; check payload consent flags",
-      "sample": "https://monorail-edge.shopifysvc.com/v1/produce"
-    },
-    {
-      "key": "request|Klaviyo|https://a.klaviyo.com/onsite/track-analytics|pre-consent|warning",
-      "type": "request",
-      "phase": "pre-consent",
-      "where": "/",
-      "item": "https://a.klaviyo.com/onsite/track-analytics",
-      "vendor": "Klaviyo",
-      "category": "beacon",
-      "severity": "warning",
-      "detail": "Klaviyo onsite analytics call; confirm it is form telemetry only and not visitor tracking",
-      "sample": "https://a.klaviyo.com/onsite/track-analytics?company_id=TxUi6d"
+      "detail": "Tracking library loaded (no hit observed from this request itself)",
+      "sample": "https://www.googletagmanager.com/gtag/js?id=AW-704839735"
     },
     {
       "key": "request|Mailchimp|https://chimpstatic.com/mcjs-connected/js/users/5342d8e9e91600c2d93eef91f/2930ab6dacec2166ef10c9123.js|pre-consent|warning",
@@ -1139,6 +1127,18 @@
       "sample": "https://gtmfssettings.getgoogletagmanager.com/v1/getgoogleids.php?shopify_shop_domain=pantsstore-telegraph.myshopify.com"
     },
     {
+      "key": "request|Klaviyo|https://a.klaviyo.com/onsite/track-analytics|pre-consent|warning",
+      "type": "request",
+      "phase": "pre-consent",
+      "where": "/",
+      "item": "https://a.klaviyo.com/onsite/track-analytics",
+      "vendor": "Klaviyo",
+      "category": "beacon",
+      "severity": "warning",
+      "detail": "Klaviyo onsite analytics call; confirm it is form telemetry only and not visitor tracking",
+      "sample": "https://a.klaviyo.com/onsite/track-analytics?company_id=TxUi6d"
+    },
+    {
       "key": "request|AudioEye|https://analytics.audioeye.com/v1/send|pre-consent|warning",
       "type": "request",
       "phase": "pre-consent",
@@ -1149,6 +1149,18 @@
       "severity": "warning",
       "detail": "Accessibility vendor usage analytics; confirm classification with vendor DPA",
       "sample": "https://analytics.audioeye.com/v1/send"
+    },
+    {
+      "key": "request|Shopify Analytics (monorail)|https://monorail-edge.shopifysvc.com/v1/produce|pre-consent|warning",
+      "type": "request",
+      "phase": "pre-consent",
+      "where": "/",
+      "item": "https://monorail-edge.shopifysvc.com/v1/produce",
+      "vendor": "Shopify Analytics (monorail)",
+      "category": "beacon",
+      "severity": "warning",
+      "detail": "Shopify first-party analytics event; check payload consent flags",
+      "sample": "https://monorail-edge.shopifysvc.com/v1/produce"
     },
     {
       "key": "request|Shopify Analytics (monorail)|https://pantsstore.com/.well-known/shopify/monorail/unstable/produce_batch|post-decline|warning",
@@ -1185,6 +1197,18 @@
       "severity": "warning",
       "detail": "Shopify first-party analytics event; check payload consent flags",
       "sample": "https://monorail-edge.shopifysvc.com/v1/produce"
+    },
+    {
+      "key": "request|Google Tag|https://www.googletagmanager.com/gtag/js|post-decline|warning",
+      "type": "request",
+      "phase": "post-decline",
+      "where": "/collections/womens-new-arrivals-1",
+      "item": "https://www.googletagmanager.com/gtag/js",
+      "vendor": "Google Tag",
+      "category": "script",
+      "severity": "warning",
+      "detail": "Tracking library loaded (no hit observed from this request itself)",
+      "sample": "https://www.googletagmanager.com/gtag/js?id=AW-704839735"
     },
     {
       "key": "request|Klaviyo|https://a.klaviyo.com/onsite/track-analytics|post-decline|warning",
@@ -1282,7 +1306,7 @@
     ],
     [
       "static.klaviyo.com",
-      112
+      116
     ],
     [
       "wsv3cdn.audioeye.com",
@@ -1290,11 +1314,11 @@
     ],
     [
       "otlp-http-production.shopifysvc.com",
-      30
+      29
     ],
     [
       "monorail-edge.shopifysvc.com",
-      30
+      29
     ],
     [
       "static-tracking.klaviyo.com",
@@ -1322,6 +1346,10 @@
     ],
     [
       "s3.amazonaws.com",
+      8
+    ],
+    [
+      "www.googletagmanager.com",
       8
     ],
     [
@@ -1353,15 +1381,15 @@
       4
     ],
     [
+      "p.typekit.net",
+      4
+    ],
+    [
       "shop.app",
       4
     ],
     [
       "cdn.jsdelivr.net",
-      4
-    ],
-    [
-      "p.typekit.net",
       4
     ],
     [
@@ -1402,10 +1430,6 @@
     ],
     [
       "www.google-analytics.com",
-      4
-    ],
-    [
-      "www.googletagmanager.com",
       4
     ],
     [
@@ -1456,15 +1480,20 @@
     "cmp": null,
     "postDeclineViolations": 2,
     "preConsentViolations": 0,
-    "warnings": 27,
+    "warnings": 29,
     "vendorsLeaking": [
       "Google Analytics"
     ]
   },
-  "requestCount": 2067,
+  "requestCount": 2068,
   "logs": [
     "[pants-store/gpc] Pages: /collections/womens-new-arrivals-1, /products/k-squared-a4113, /cart, /pages/return-policy"
   ],
-  "finishedAt": "2026-10-13T17:21:04.380Z",
+  "finishedAt": "2026-10-19T17:48:02.138Z",
+  "diff": {
+    "previousRun": "2026-10-13T17:20:01.724Z",
+    "newViolations": [],
+    "resolved": []
+  },
   "aiSummary": null
 }
